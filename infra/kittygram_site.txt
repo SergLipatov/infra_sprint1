@@ -1,0 +1,5 @@
+IP: 84.201.140.188;
+name_taski: https://taskisergli.zapto.org;
+name_kittygram: https://kyttigrammserg.zapto.org;
+login: yc-user;
+password: 6695;
